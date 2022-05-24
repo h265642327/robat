@@ -4,3 +4,7 @@
 然后的星星都来自nonebot插件商店分享（pip install）
 # 注意
 我只保留了bot机器人的参数，至于go-cqhttp需要自行操作，这个在安装go-cqhttp插件时会提供帮助，在此无需重复声明
+#特别鸣谢
+go-cqhttp(https://docs.go-cqhttp.org/)
+nonebot(https://v2.nonebot.dev/)
+插件：
